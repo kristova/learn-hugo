@@ -1,0 +1,29 @@
+[[main]]
+  identifier = "about"
+  name = "Про нас"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "courses"
+  name = "Курси"
+  url = "courses"
+  weight = 2
+
+[[main]]
+  identifier = "portfolio"
+  name = "Портфоліо"
+  url = "portfolio"
+  weight = 3
+
+[[main]]
+  identifier = "blog"
+  name = "Блог"
+  url = "blog"
+  weight = 4
+
+[[main]]
+  identifier = "contact"
+  name = "Контакти"
+  url = "contact"
+  weight = 5

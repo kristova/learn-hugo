@@ -1,0 +1,9 @@
+[uk]
+  title = "ProgTer club"
+  languageName = "Ukrainian"
+  weight = 1
+
+[en]
+  title = "ProgTer club"
+  languageName = "English"
+  weight = 2
